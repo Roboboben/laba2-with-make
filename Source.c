@@ -1,5 +1,3 @@
-
-
 #include <stdio.h>      // Enter a string and display it word-by-word on the screen
 int main()
 {
